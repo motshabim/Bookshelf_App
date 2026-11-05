@@ -1,0 +1,1 @@
+I love reading, but since physical books can be expensive I read their e-books. 'BookShelf' is an app that is used as an actual bookshelf- just virtually. I can read the documents, highlight them, bookmark them and personalise them as I would with an actual bookshelf. 
